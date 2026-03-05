@@ -64,7 +64,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const lowerDesc = descriptionText ? descriptionText.toString().toLowerCase() : "";
         let matched = new Set();
 
-        const checkText = (kw) => lowerElig.includes(kw) || lowerDesc.includes(kw);
+        const checkText = (kw) => {
+            // Use word boundary regex: matches keyword as a whole word, 
+            // handling punctuation, spaces, start/end of string.
+            // Also escapes special characters in keyword just in case
+            const escapedKw = kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const regex = new RegExp(`\\b${escapedKw}\\b`, 'i');
+            return regex.test(lowerElig) || regex.test(lowerDesc);
+        };
 
         // Exact matching
         lpuSchools.forEach(school => {
