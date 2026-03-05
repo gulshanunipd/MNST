@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India Ministries Data Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="background-animation">
+        <div class="blob blob1"></div>
+        <div class="blob blob2"></div>
+        <div class="blob blob3"></div>
+    </div>
+
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar glass">
+            <div class="sidebar-logo-banner">
+                <img src="lpulogo.jpg" alt="LPU Logo" class="sidebar-logo-img">
+                <button id="mobile-menu-btn" class="menu-btn" aria-label="Toggle Menu">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M4 6H20M4 12H20M4 18H20" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" />
+                    </svg>
+                </button>
+            </div>
+            <div class="search-ministry-container">
+                <input type="text" id="ministry-search" placeholder="Filter ministries..." class="glass-input">
+            </div>
+
+            <div class="filter-container" style="padding: 0 16px;">
+                <select id="school-filter" class="glass-select">
+                    <option value="ALL">All LPU Schools</option>
+                    <!-- Options populated via JS -->
+                </select>
+            </div>
+            <nav id="nav-list" class="nav-list">
+                <!-- Nav items injected via JS -->
+                <div class="loading-text">Loading Data...</div>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="topbar glass">
+                <div class="title-container">
+                    <h1 id="active-ministry-title">Select a Ministry</h1>
+                </div>
+                <div class="search-container">
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    <input type="text" id="data-search" placeholder="Search current view..." class="glass-input">
+                </div>
+            </header>
+
+            <div class="content-body" id="content-body">
+
+                <!-- Tab Controls (Hidden until Ministry selected) -->
+                <div id="tab-controls" class="tab-controls hidden">
+                    <button id="tab-institutes" class="tab-btn active">Institutes</button>
+                    <button id="tab-opportunities" class="tab-btn">Opportunities (Collaboration)</button>
+                    <div class="tab-indicator"></div>
+                </div>
+
+                <!-- Select State -->
+                <div id="empty-state" class="empty-state visible">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M9 12h6m-6 4h6m2 5H7c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19c0 1.1-.9 2-2 2z"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    <p>Select a Ministry from the sidebar to view institutes and details.</p>
+                </div>
+
+                <!-- Data Table Container -->
+                <div id="table-container" class="table-container glass hidden">
+                    <div class="table-responsive">
+                        <table id="data-table">
+                            <thead>
+                                <tr id="table-header-row">
+                                    <!-- Headers dynamic -->
+                                </tr>
+                            </thead>
+                            <tbody id="table-body">
+                                <!-- Data dynamic -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- No Results State -->
+                <div id="no-results" class="empty-state hidden">
+                    <p>No matching results found for your search.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
