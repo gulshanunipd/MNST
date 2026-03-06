@@ -103,6 +103,9 @@ document.addEventListener('DOMContentLoaded', () => {
             matched.add("School of Computing and Artificial Intelligence");
             matched.add("School of Computer Applications");
         }
+        if (checkText('aeronautical') || checkText('aerospace') || checkText('aviation')) {
+            matched.add("School of Mechanical Engineering");
+        }
         if (checkText('engineering') || checkText('b.tech') || checkText('hardware') || checkText('electronics') || checkText('mechanical') || checkText('civil') || checkText('chemical')) {
             matched.add("School of Electronics and Electrical Engineering");
             matched.add("School of Mechanical Engineering");
