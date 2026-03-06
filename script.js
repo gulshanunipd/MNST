@@ -196,6 +196,24 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             navList.appendChild(item);
         });
+
+        // Add Analysis Option
+        const analysisItem = document.createElement('div');
+        analysisItem.className = 'nav-item';
+        // Make sure it looks distinct if desired, but standard class is fine
+        analysisItem.textContent = 'Analysis';
+        if (currentMinistryKey === 'ANALYSIS') {
+            analysisItem.classList.add('active');
+        }
+        analysisItem.addEventListener('click', () => {
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            analysisItem.classList.add('active');
+            if (window.innerWidth <= 900) {
+                sidebar.classList.remove('open');
+            }
+            loadAnalysisData();
+        });
+        navList.appendChild(analysisItem);
     }
 
     // Filter ministries
@@ -295,9 +313,65 @@ document.addEventListener('DOMContentLoaded', () => {
         refreshCurrentView();
     }
 
+    function loadAnalysisData() {
+        currentMinistryKey = 'ANALYSIS';
+        activeMinistryTitle.textContent = 'Data Analysis';
+        dataSearch.value = '';
+
+        // Hide tabs for Analysis
+        tabControls.classList.add('hidden');
+        emptyState.classList.remove('visible');
+        tableContainer.classList.remove('hidden');
+        noResults.classList.add('hidden');
+
+        renderAnalysisTable();
+    }
+
+    function renderAnalysisTable() {
+        let rows = [];
+        ministriesKeys.forEach(key => {
+            // Count Institutes
+            const instData = allData.institutes[key];
+            let instCount = 0;
+            if (instData) {
+                const parsedInst = parseSheetData(instData);
+                instCount = parsedInst.rows.filter(r => r.type === 'data').length;
+            }
+
+            // Count Opportunities
+            const matchingCollabKey = Object.keys(allData.opportunities).find(k => k.includes(key) || key.includes(k));
+            let oppsCount = 0;
+            if (matchingCollabKey) {
+                const oppsData = allData.opportunities[matchingCollabKey];
+                if (oppsData) {
+                    const parsedOpps = parseSheetData(oppsData);
+                    oppsCount = parsedOpps.rows.filter(r => r.type === 'data').length;
+                }
+            }
+
+            rows.push({
+                type: 'data',
+                cells: [key.replace(/^[0-9]+[.]\s*/, '').trim(), instCount, oppsCount],
+                lpuSchools: []
+            });
+        });
+
+        currentParsedData = {
+            headers: ['Ministry', 'Total Institutes', 'Total Opportunities'],
+            rows: rows
+        };
+
+        handleTableFilter();
+    }
+
     // Re-parse and render based on active tab
     function refreshCurrentView() {
         if (!currentMinistryKey) return;
+
+        if (currentMinistryKey === 'ANALYSIS') {
+            renderAnalysisTable();
+            return;
+        }
 
         // Find matching key in opportunities JSON (names might slightly differ, so we do a partial match if needed)
         let oppsData = [];
