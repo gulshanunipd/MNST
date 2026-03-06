@@ -329,6 +329,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderAnalysisTable() {
         let rows = [];
+        let grandTotalInst = 0;
+        let grandTotalOpps = 0;
+
         ministriesKeys.forEach(key => {
             // Count Institutes
             const instData = allData.institutes[key];
@@ -349,11 +352,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
 
+            grandTotalInst += instCount;
+            grandTotalOpps += oppsCount;
+
             rows.push({
                 type: 'data',
                 cells: [key.replace(/^[0-9]+[.]\s*/, '').trim(), instCount, oppsCount],
                 lpuSchools: []
             });
+        });
+
+        // Add Final Total Row
+        rows.push({
+            type: 'data',
+            cells: ['TOTAL', grandTotalInst, grandTotalOpps],
+            lpuSchools: []
         });
 
         currentParsedData = {
