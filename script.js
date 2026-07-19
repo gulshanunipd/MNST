@@ -221,6 +221,24 @@ document.addEventListener('DOMContentLoaded', () => {
         applyGlobalSchoolFilter();
     });
 
+    // Helper to find matching opportunity key by string or leading index number
+    function findCollabKey(key) {
+        if (!key || !allData.opportunities) return null;
+        let match = Object.keys(allData.opportunities).find(k => k.includes(key) || key.includes(k));
+        if (match) return match;
+
+        const keyNumMatch = key.match(/^(\d+)/);
+        if (keyNumMatch) {
+            const num = keyNumMatch[1];
+            match = Object.keys(allData.opportunities).find(k => {
+                const kNumMatch = k.match(/^(\d+)/);
+                return kNumMatch && kNumMatch[1] === num;
+            });
+            if (match) return match;
+        }
+        return null;
+    }
+
     // Apply Global Filter (School + Search)
     function applyGlobalSchoolFilter() {
         const query = ministrySearch.value.toLowerCase();
@@ -229,7 +247,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (currentSchoolFilter !== 'ALL') {
             filteredKeys = filteredKeys.filter(key => {
                 // Check if any opportunity under this ministry matches the school
-                const matchingCollabKey = Object.keys(allData.opportunities).find(k => k.includes(key) || key.includes(k));
+                const matchingCollabKey = findCollabKey(key);
                 if (!matchingCollabKey) return false;
 
                 const oppsData = allData.opportunities[matchingCollabKey];
@@ -342,7 +360,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // Count Opportunities
-            const matchingCollabKey = Object.keys(allData.opportunities).find(k => k.includes(key) || key.includes(k));
+            const matchingCollabKey = findCollabKey(key);
             let oppsCount = 0;
             if (matchingCollabKey) {
                 const oppsData = allData.opportunities[matchingCollabKey];
@@ -386,16 +404,14 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // Find matching key in opportunities JSON (names might slightly differ, so we do a partial match if needed)
+        // Find matching key in opportunities JSON
         let oppsData = [];
         if (currentViewToken === 'opportunities') {
-            const matchingCollabKey = Object.keys(allData.opportunities).find(k => k.includes(currentMinistryKey) || currentMinistryKey.includes(k));
+            const matchingCollabKey = findCollabKey(currentMinistryKey);
             oppsData = matchingCollabKey ? allData.opportunities[matchingCollabKey] : [];
         }
 
         const rawData = currentViewToken === 'institutes' ? allData.institutes[currentMinistryKey] : oppsData;
-
-        currentParsedData = parseSheetData(rawData);
 
         currentParsedData = parseSheetData(rawData);
 

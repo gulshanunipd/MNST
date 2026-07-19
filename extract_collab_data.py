@@ -2,14 +2,23 @@ import pandas as pd
 import json
 import math
 import sys
+import os
+import datetime
 
 def clean_value(val):
+    if val is None:
+        return None
     if isinstance(val, float) and math.isnan(val):
         return None
+    if isinstance(val, (pd.Timestamp, datetime.datetime, datetime.date)):
+        return str(val)
     return val
 
+excel_file = "Collaboration New.xlsx" if os.path.exists("Collaboration New.xlsx") else "Collaboration.xlsx"
+
 try:
-    xl = pd.ExcelFile("Collaboration.xlsx")
+    print(f"Reading {excel_file}...")
+    xl = pd.ExcelFile(excel_file)
     res = {}
     for sheet_name in xl.sheet_names:
         df = xl.parse(sheet_name)
@@ -28,3 +37,4 @@ try:
 except Exception as e:
     print(f"Error parsing Excel: {e}")
     sys.exit(1)
+
