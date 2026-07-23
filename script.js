@@ -140,8 +140,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Fetch Both JSON Data Sources concurrently
     Promise.all([
-        fetch('data.json').then(r => r.json()),
-        fetch('collaboration.json').then(r => r.json())
+        fetch('data.json', { cache: 'no-store' }).then(r => r.json()),
+        fetch('collaboration.json', { cache: 'no-store' }).then(r => r.json())
     ])
         .then(([institutesData, collabData]) => {
             allData.institutes = institutesData;

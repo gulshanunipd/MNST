@@ -142,24 +142,38 @@
     },
     {
       "AYUSH (MoA) ": 20,
-      "Unnamed: 1": "INDIAN MEDICINES PHARMACEUTICAL CORPORATION LIMITED (IMPCL)",
-      "Unnamed: 2": "Uttarakhand",
-      "Unnamed: 3": "Manufacturing of Ayurvedic and Unani medicines, herbal pharmaceutical production & supply to government health systems",
-      "Unnamed: 4": "Dr. Subodh Kumar\nmd@impcl.in"
+      "Unnamed: 1": "National Medicinal Plants Board (NMPB)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Medicinal plants \u2014 conservation, cultivation, trade, export, R&D, quality standards (Ayurveda, Yoga, Unani, Siddha, Homoeopathy sector support)",
+      "Unnamed: 4": "Dr. Mahesh Kumar Dadhich, Chief Executive Officer (CEO)\nmahesh.dadhich@gov.in"
     },
     {
       "AYUSH (MoA) ": 21,
-      "Unnamed: 1": "National Institute of Sowa Rigpa",
-      "Unnamed: 2": "Ladakh",
-      "Unnamed: 3": "comprehensive education and training in traditional Tibetan medicine, focusing on holistic healing.",
-      "Unnamed: 4": "Dr. Padma Gurmet\ndrgurmet@gov.in\n"
+      "Unnamed: 1": "National Commission for Indian System of Medicine (NCISM)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Ayurveda, Unani, Siddha, Sowa-Rigpa ",
+      "Unnamed: 4": "Dr. Maneesha V. Kothekar, Chairperson; secretary@ncismindia.org "
     },
     {
       "AYUSH (MoA) ": 22,
-      "Unnamed: 1": "North Eastern Institute of Folk Medicine Research",
-      "Unnamed: 2": "Arunachal Pradesh",
-      "Unnamed: 3": "Ayurvedic education, folk medicine documentation, and scientific validation of traditional healing practices.",
-      "Unnamed: 4": "Dr. Inya Lingu\nneifmpasighat@gmail.com"
+      "Unnamed: 1": "National Commission for Homoeopathy (NCH)",
+      "Unnamed: 2": "New Delhi (Janakpuri)",
+      "Unnamed: 3": "Homoeopathy ",
+      "Unnamed: 4": "Dr. Tarkeshwar Jain, Chairperson, chair-nch@gov.in"
+    },
+    {
+      "AYUSH (MoA) ": 23,
+      "Unnamed: 1": "Yoga Certification Board (YCB)",
+      "Unnamed: 2": "New Delhi (under MDNIY, Ashoka Road)",
+      "Unnamed: 3": "Yoga ",
+      "Unnamed: 4": "Dr. Kashinath Samagandhi; dir-mdniy@nic.in"
+    },
+    {
+      "AYUSH (MoA) ": 24,
+      "Unnamed: 1": "PLIM & Homoeopathic Pharmacopoeia Lab (HPL), Ghaziabad",
+      "Unnamed: 2": "Ghaziabad, Uttar Pradesh",
+      "Unnamed: 3": "Standard-setting and drug testing for Ayurveda, Unani, Siddha, and Homoeopathy medicines (Pharmacopoeias/Formularies, quality control)",
+      "Unnamed: 4": "Dr. Raman Mohan Singh, Director; director@niperahm.ac.in"
     }
   ],
   "2.Agriculture and Farmers": [
@@ -1142,6 +1156,97 @@
       "Unnamed: 2": "Jhansi, Uttar Pradesh",
       "Unnamed: 3": "Agricultural education & research (Bundelkhand region)",
       "Unnamed: 4": "Dr Anil Kumar\ndirectoreducation.rlbcau@gmail.com"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 26,
+      "Unnamed: 1": "National Institute of Agricultural Extension Management (MANAGE)",
+      "Unnamed: 2": "Rajendranagar, Hyderabad",
+      "Unnamed: 3": "Agricultural extension management, agribusiness training",
+      "Unnamed: 4": "Sanjay Kumar Agarwal (IAS); js-agriculture@nic.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 27,
+      "Unnamed: 1": "Ch. Charan Singh National Institute of Agricultural Marketing (NIAM)",
+      "Unnamed: 2": "Jaipur, Rajasthan",
+      "Unnamed: 3": "Agricultural marketing ",
+      "Unnamed: 4": "Shri Muktanand Agrawal, IAS; muktanand.ias08@ias.nic.in "
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 28,
+      "Unnamed: 1": "National Institute of Plant Health Management (NIPHM)",
+      "Unnamed: 2": "Rajendranagar, Hyderabad",
+      "Unnamed: 3": "Plant health ",
+      "Unnamed: 4": "Sagar Hanuman Singh, IPoS, Director General; dgniphm@nic.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 29,
+      "Unnamed: 1": "National Rainfed Area Authority (NRAA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Rainfed/dryland agriculture policy and knowledge support",
+      "Unnamed: 4": "Chandra Sekhar Kumar, IAS, appointed CEO, cs.kumar@nic.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 30,
+      "Unnamed: 1": "National Centre for Cold-chain Development (NCCD)",
+      "Unnamed: 2": "New Delhi (also Gurugram office)",
+      "Unnamed: 3": "Cold-chain policy think tank ",
+      "Unnamed: 4": "Dr. B.N.S. Murthy; bns.murthy@gov.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 31,
+      "Unnamed: 1": "Central Institute of Horticulture, Medziphema, Nagaland",
+      "Unnamed: 2": "Medziphema, Nagaland (Dimapur district)",
+      "Unnamed: 3": "Horticulture development for the North-East region",
+      "Unnamed: 4": "Dr. N.K. Patle; dchort-dac@gov.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 32,
+      "Unnamed: 1": "National Horticulture Board (NHB), Gurugram",
+      "Unnamed: 2": "Sector-18, Gurugram",
+      "Unnamed: 3": "Post-harvest infra, cold storage, horticulture promotion schemes",
+      "Unnamed: 4": "SH. KAPIL MEENA, IAS\nMANAGING DIRECTOR; md@nhb.gov.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 33,
+      "Unnamed: 1": "Coconut Development Board (CDB), Kochi",
+      "Unnamed: 2": "Kochi, Kerala",
+      "Unnamed: 3": "Coconut cultivation, processing, product diversification, exports",
+      "Unnamed: 4": "Dr. Prabhat Kumar Chief Executive Officer; hortcommissioner@gmail.com/ hort.comm-agri@agri.gov.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 34,
+      "Unnamed: 1": "National Bee Board (NBB)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Scientific beekeeping, honey/pollinator development",
+      "Unnamed: 4": "Dr. N.K. Patle; dchort-dac@gov.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 35,
+      "Unnamed: 1": "Protection of Plant Varieties & Farmers' Rights Authority (PPV&FRA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Plant variety IP registration, farmers' rights protection",
+      "Unnamed: 4": "Dr. Trilochan Mohapatra; chairperson-ppvfra@nic.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 36,
+      "Unnamed: 1": "Small Farmers' Agri-Business Consortium (SFAC)",
+      "Unnamed: 2": "Hauz Khas, New Delhi",
+      "Unnamed: 3": "FPO promotion, agribusiness/venture capital support for small farmers",
+      "Unnamed: 4": "Dr. Maninder Kaur Dwivedi, IAS, Managing Director; maninder.edu@nic.in"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 37,
+      "Unnamed: 1": "National Seeds Corporation (NSC)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Seed production and distribution (Miniratna CPSU)",
+      "Unnamed: 4": "Dr. Maninder Kaur Dwivedi, IAS, Chairman & Managing Director; cmd@indiaseeds.com"
+    },
+    {
+      "Agriculture and Farmers Welfare (MoAFW), majorly Indian Council of Agricultural Research (ICAR)": 38,
+      "Unnamed: 1": "Central Institute of Fisheries Education (CIFE)",
+      "Unnamed: 2": "Versova, Mumbai",
+      "Unnamed: 3": "Fisheries science education and research (ICAR deemed university)",
+      "Unnamed: 4": "Dr. Narottam Prasad Sahu; npsahu1@rediffmail.com, npsahu@cife.edu.in, npsahu1@gmail.com"
     }
   ],
   "3.Chemicals and Fertilizers": [
@@ -1319,6 +1424,62 @@
       "Unnamed: 2": "Gurugram",
       "Unnamed: 3": "grochemical formulation, testing, and sustainable pest management.",
       "Unnamed: 4": "Dr. Mohana Krishna Reddy Mudiam\ndirector@ipft.gov.in"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 22,
+      "Unnamed: 1": "National Pharmaceutical Pricing Authority (NPPA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Drug price regulation & DPCO enforcement",
+      "Unnamed: 4": "Arunish Chawla (also Secretary, Department of Pharmaceuticals); secydivest@nic.in"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 23,
+      "Unnamed: 1": "Hindustan Antibiotics Limited (HAL), Pune",
+      "Unnamed: 2": "Pimpri, Pune",
+      "Unnamed: 3": "India's first PSU antibiotic manufacturer (Penicillin, Streptomycin, etc.)",
+      "Unnamed: 4": "Nirja Saraf, Managing Director;md@halpune.in"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 24,
+      "Unnamed: 1": "Karnataka Antibiotics & Pharmaceuticals Ltd (KAPL), Bengaluru",
+      "Unnamed: 2": "Peenya, Bengaluru",
+      "Unnamed: 3": "Formulations ",
+      "Unnamed: 4": "Suhas Phadke, Managing Director; md@kaplindia.com"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 25,
+      "Unnamed: 1": "Bengal Chemicals & Pharmaceuticals Ltd (BCPL), Kolkata",
+      "Unnamed: 2": "Kolkata (plants also in Mumbai, Kanpur)",
+      "Unnamed: 3": "India's oldest pharma/chemical manufacturer (founded by Acharya P.C. Ray)",
+      "Unnamed: 4": "Srikumar Ghose Choudhury, Managing Director and Director (Finance); md@bengalchemicals.co.in"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 26,
+      "Unnamed: 1": "Pharmaceuticals & Medical Devices Bureau of India (PMBI)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Implements PM Bhartiya Janaushadhi Pariyojana (generic medicine stores)",
+      "Unnamed: 4": "Shri Suvasis Das; ds-pharmapolicy@pharma-dept.gov.in or suvasis.das@incometax.gov.in"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 27,
+      "Unnamed: 1": "Hindustan Urvarak & Rasayan Ltd (HURL)",
+      "Unnamed: 2": "New Delhi (plants at Gorakhpur, Sindri, Barauni)",
+      "Unnamed: 3": "Gas-based ammonia-urea complexes (JV of Coal India, NTPC, IOCL, FCIL, HFCL)",
+      "Unnamed: 4": "Siba Prasad Mohanty, Managing Director; md@hurl.net.in"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 28,
+      "Unnamed: 1": "Ramagundam Fertilizers & Chemicals Ltd (RFCL)",
+      "Unnamed: 2": "Ramagundam, Telangana",
+      "Unnamed: 3": "Gas-based ammonia-urea complex (JV of NFL, EIL, FCIL)",
+      "Unnamed: 4": "S. Manoharan, CEO (Chairman, ex-officio: CMD of NFL); cmd@nfl.co.in"
+    },
+    {
+      "Chemicals and Fertilizers (MoCF)": 29,
+      "Unnamed: 1": "Talcher Fertilizers Ltd (TFL)",
+      "Unnamed: 2": "Talcher, Angul district, Odisha",
+      "Unnamed: 3": "Coal-gasification-based urea plant (JV of Coal India, GAIL, RCF, FCIL)",
+      "Unnamed: 4": "Vivek Srivastava, Managing Director; Chairman: Deepak Gupta; mdcell@tflonline.co.in."
     }
   ],
   "4.Civil Aviation": [
@@ -1475,6 +1636,13 @@
       "Unnamed: 2": "Telangana",
       "Unnamed: 3": "Pilot training, aviation courses",
       "Unnamed: 4": "Bharat Reddy\ntsgov@gmail.com"
+    },
+    {
+      "Civil Aviation (MoCA)": 20,
+      "Unnamed: 1": "Hotel Corporation of India Limited (HCI)",
+      "Unnamed: 2": "Delhi",
+      "Unnamed: 3": "Hotel",
+      "Unnamed: 4": "Shri Amit Kumar; reservations.chda@centaurhotels.com"
     }
   ],
   "5.Coal": [
@@ -1585,55 +1753,27 @@
     },
     {
       "Coal": 15,
-      "Unnamed: 1": "Central Institute of Mining and Fuel Research (CIMFR)",
-      "Unnamed: 2": "Jharkhand",
-      "Unnamed: 3": "Mining research, coal beneficiation, fuel technology, geotechnical engineering, energy and environmental studies, mineral processing, mine safety research",
-      "Unnamed: 4": "Prof. Arvind Kumar Mishra\ndirector@cimfr.res.in"
-    },
-    {
-      "Coal": 16,
-      "Unnamed: 1": "Mineral Exploration Corporation Limited (MECL)",
-      "Unnamed: 2": "Maharashtra",
-      "Unnamed: 3": "Mineral exploration, geological surveys, drilling & resource assessment",
-      "Unnamed: 4": "Shri Indra Dev Narayan\ndf@mecl.co.in"
-    },
-    {
-      "Coal": 17,
-      "Unnamed: 1": "National Aluminium Company Limited (NALCO)",
-      "Unnamed: 2": "Odisha",
-      "Unnamed: 3": "Aluminium production, mining (bauxite), refining, smelting & metal manufacturing",
-      "Unnamed: 4": "Shri Brijendra Pratap Singh\ncmd@nalcoindia.co.in"
-    },
-    {
-      "Coal": 18,
-      "Unnamed: 1": "Hindustan Copper Limited (HCL)",
-      "Unnamed: 2": "West bengal",
-      "Unnamed: 3": "Copper mining, extraction, smelting & copper product manufacturing",
-      "Unnamed: 4": "Mr. Ravi Kumar \nravi_g@hindustancopper.com"
-    },
-    {
-      "Coal": 19,
       "Unnamed: 1": "Central Mine Planning & Design Institute",
       "Unnamed: 2": "Jharkhand",
       "Unnamed: 3": "Mine planning, coal exploration, mining engineering consultancy",
       "Unnamed: 4": "Chaudhari Shivraj Singh\ncmd.cmpdi@coalindia.in\nNripendra Nath\ndirrdt.cmpdi@coalindia.in"
     },
     {
-      "Coal": 20,
+      "Coal": 16,
       "Unnamed: 1": "North Eastern Coalfields",
       "Unnamed: 2": "Assam",
       "Unnamed: 3": "Coal mining operations & production",
       "Unnamed: 4": "Shri Samil Jugli\nam.snm.nec@coalindia.in"
     },
     {
-      "Coal": 21,
+      "Coal": 17,
       "Unnamed: 1": "Coal Controller's Organization",
       "Unnamed: 2": "West Bengal",
       "Unnamed: 3": "Coal regulation, quality control & grading",
       "Unnamed: 4": "Shri Sajeesh Kumar N.\ncco.regionaloffice@gov.in"
     },
     {
-      "Coal": 22,
+      "Coal": 18,
       "Unnamed: 1": "Indian Institute of Coal Management",
       "Unnamed: 2": "Jharkhand",
       "Unnamed: 3": "Coal management, mining administration & training",
@@ -1892,6 +2032,34 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Productivity improvement, industrial efficiency, consultancy & training",
       "Unnamed: 4": "Smt. Neerja Sekhar\ndg.npc@npcindia.gov.in"
+    },
+    {
+      "Commerce and Industry (MoCI)": 34,
+      "Unnamed: 1": "Office of the Salt Commissioner",
+      "Unnamed: 2": "Jaipur, Rajasthan",
+      "Unnamed: 3": "Salt production/distribution monitoring, iodised salt quality control",
+      "Unnamed: 4": "Ms. Prerna Joshi. Joint Director (DPIIT); prerna.joshi@nic.in"
+    },
+    {
+      "Commerce and Industry (MoCI)": 35,
+      "Unnamed: 1": "State Trading Corporation (STC)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "International bulk trading (agro, bullion, fertilisers) ",
+      "Unnamed: 4": "Shri. Nitin Kumar Yadav (Additional Charge) Chairman & Managing; mmtc@mmtclimited.com"
+    },
+    {
+      "Commerce and Industry (MoCI)": 36,
+      "Unnamed: 1": "PEC Limited",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Turnkey project exports, canalised bullion trade ",
+      "Unnamed: 4": "KAPIL GUPTA; pec@peclimited.com"
+    },
+    {
+      "Commerce and Industry (MoCI)": 37,
+      "Unnamed: 1": "Government e-Marketplace (GeM)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "National public procurement portal",
+      "Unnamed: 4": "Shri Rajesh Agrawal, Director; csoffice@nic.in"
     }
   ],
   "7.Communications": [
@@ -2055,6 +2223,48 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Radio spectrum management, wireless licensing & frequency regulation",
       "Unnamed: 4": "Arun Kumar\nangurana.arun@nic.in"
+    },
+    {
+      "Communications": 21,
+      "Unnamed: 1": "ITI Limited (Indian Telephone Industries)",
+      "Unnamed: 2": "Bengaluru",
+      "Unnamed: 3": "Telecom equipment manufacturing (switching, transmission, defence comms)",
+      "Unnamed: 4": "Rajesh Rai, Chairman & Managing Director; cmd@itiltd.co.in"
+    },
+    {
+      "Communications": 22,
+      "Unnamed: 1": "Telecommunications Consultants India Ltd (TCIL)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Telecom/IT/civil engineering consultancy and turnkey projects (80+ countries)",
+      "Unnamed: 4": "Shri Syed Tausif Abbas; srddg.tec@gov.in"
+    },
+    {
+      "Communications": 23,
+      "Unnamed: 1": "Digital Communications Commission",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Apex DoT policy, budget, and telecom regulation body (formerly Telecom Commission)",
+      "Unnamed: 4": "Amit Agrawal (Telecom Secretary), Chairman (ex-officio); secy-dot@nic.in"
+    },
+    {
+      "Communications": 24,
+      "Unnamed: 1": "Universal Service Obligation Fund (USOF)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Rural/underserved-area telecom connectivity funding",
+      "Unnamed: 4": "Shyamal Misra, Administrator, Digital Bharat Nidhi; admn.dbn-dot@gov.in"
+    },
+    {
+      "Communications": 25,
+      "Unnamed: 1": "Controller General of Communication Accounts (CGCA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Apex telecom finance office ",
+      "Unnamed: 4": "Vandana Gupta, Controller General of Communication Accounts; cgca-dot@gov.in"
+    },
+    {
+      "Communications": 26,
+      "Unnamed: 1": "Bharat Broadband Network Ltd (BBNL)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "BharatNet rural optical fibre rollout",
+      "Unnamed: 4": "Shri A. Robert J. Ravi, ITS; mtnlcsco@gmail.com"
     }
   ],
   "8.Consumer Affairs,Food an": [
@@ -2183,6 +2393,34 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Policy, monitoring & management of sugar and edible oil sector",
       "Unnamed: 4": "Sh. Sangeet\nsangeet.cgda@nic.in"
+    },
+    {
+      "Consumer Affairs, Food and Public Distribution (MoCAFP)": 17,
+      "Unnamed: 1": "Indian Institute of Legal Metrology (IILM)",
+      "Unnamed: 2": "Ranchi, Jharkhand",
+      "Unnamed: 3": "Training for Legal Metrology Officers (India + neighbouring countries)",
+      "Unnamed: 4": "Dr. Rajeshwar Kumar, Director; dir-iilmr-jhr@gov.in"
+    },
+    {
+      "Consumer Affairs, Food and Public Distribution (MoCAFP)": 18,
+      "Unnamed: 1": "Directorate of Legal Metrology (Weights & Measures Unit)",
+      "Unnamed: 2": "New Delhi (Krishi Bhawan)",
+      "Unnamed: 3": "National policy, technical regulation, and coordination of state enforcement for weights/measures",
+      "Unnamed: 4": "Ashutosh Agarwal, Director; dirwm-ca@nic.in"
+    },
+    {
+      "Consumer Affairs, Food and Public Distribution (MoCAFP)": 19,
+      "Unnamed: 1": "Central Railside Warehouse Company Ltd (CRWC)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Railside warehousing complexes/multimodal logistics hubs",
+      "Unnamed: 4": "Amit Kumar Singh, Managing Director; amitkumarsingh@ord.gov.in"
+    },
+    {
+      "Consumer Affairs, Food and Public Distribution (MoCAFP)": 20,
+      "Unnamed: 1": "Regional Reference Standards Laboratories (RRSLs)",
+      "Unnamed: 2": "Ahmedabad, Bengaluru, Bhubaneswar, Faridabad, Guwahati ",
+      "Unnamed: 3": "Calibration/verification of state-level weights & measures standards, traceable to national/international standards",
+      "Unnamed: 4": "Shri B.A. Pandey; dnpl@nplindia.org"
     }
   ],
   "9.Cooperation": [
@@ -2370,87 +2608,59 @@
     },
     {
       "Cooperation": 26,
-      "Unnamed: 1": "Tribal Cooperative Marketing Development Federation of India Limited",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Tribal product marketing, livelihood promotion & minor forest produce",
-      "Unnamed: 4": "Shri M. Raja Murugan\nmd-trifed@trifed.nic.in"
-    },
-    {
-      "Cooperation": 27,
-      "Unnamed: 1": "National Federation of Cooperative Sugar Factories Limited",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Cooperative sugar industry coordination & policy support",
-      "Unnamed: 4": "Prakash P. Naiknavare\nnfcsfnd@gmail.com\n"
-    },
-    {
-      "Cooperation": 28,
-      "Unnamed: 1": "National Cooperative Dairy Federation of India Limited",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Dairy cooperative development & milk marketing",
-      "Unnamed: 4": "Srinivas Sajja\nncdfidel@ncdfi.coop"
-    },
-    {
-      "Cooperation": 29,
-      "Unnamed: 1": "National Cooperative Consumer's Federation of India Limited",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Consumer goods distribution & cooperative marketing",
-      "Unnamed: 4": "Ms. Anice Joseph Chandr\nmdnccf@nccfindia.com"
-    },
-    {
-      "Cooperation": 30,
-      "Unnamed: 1": "National Cooperative Housing Federation Limited",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Cooperative housing development & finance",
-      "Unnamed: 4": "Shri Bijay Kumar Sing\nnchf2001@gmail.com"
-    },
-    {
-      "Cooperation": 31,
-      "Unnamed: 1": "National Federation of Urban Cooperative Banks and Credit Societies Limited",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Urban cooperative banking, finance & training",
-      "Unnamed: 4": " Shri Yogesh Sharma \nnafcubtrainings@gmail.com"
-    },
-    {
-      "Cooperation": 32,
       "Unnamed: 1": "National Federation of Fishermen's Cooperative Limited",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Fisheries development, marketing & cooperative support",
       "Unnamed: 4": "Mr. Bimal Kumar Mishra\nbimalk1234@hotmail.com"
     },
     {
-      "Cooperation": 33,
+      "Cooperation": 27,
       "Unnamed: 1": "National Heavy Engineering Cooperative Limited",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Engineering projects & industrial cooperative services",
       "Unnamed: 4": "Mr. Muralikrishna Chaganty.\n"
     },
     {
-      "Cooperation": 34,
+      "Cooperation": 28,
       "Unnamed: 1": "All India Federation of Cooperative Spinning Mills Limited",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Textile (spinning mills) coordination & cooperative support",
       "Unnamed: 4": "Shri Rajendra Yedraokar Patil\naifcospin@gmail.com"
     },
     {
-      "Cooperation": 35,
+      "Cooperation": 29,
       "Unnamed: 1": "National Federation of State Cooperative Bank Limited",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Cooperative banking policy, training & coordination",
       "Unnamed: 4": "Shri Bhima Subrahmanya\nnafscob@nafscob.org"
     },
     {
-      "Cooperation": 36,
+      "Cooperation": 30,
       "Unnamed: 1": "Institute of Co-operative Management",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Cooperative management training & education",
       "Unnamed: 4": "Dr. Ravi Kumar Sharma\nsharma.ravi27@rediffmail.com\ninfo@icmdehradun.org"
     },
     {
-      "Cooperation": 37,
+      "Cooperation": 31,
       "Unnamed: 1": "Netaji Subhas Regional Institute of Cooperative Management",
       "Unnamed: 2": "West Bengal",
       "Unnamed: 3": "Cooperative management, training & research",
       "Unnamed: 4": "Dr. Kishore Kumar\natcrkmnd@gmail.com"
+    },
+    {
+      "Cooperation": 32,
+      "Unnamed: 1": "National Foundation for Corporate Governance (NFCG)",
+      "Unnamed: 2": "New Delhi (c/o CII)",
+      "Unnamed: 3": "Promotes voluntary corporate governance practices ",
+      "Unnamed: 4": "Governing Council is chaired by the Union Minister of Corporate Affairs; Board of Trustees is led by the Secretary"
+    },
+    {
+      "Cooperation": 33,
+      "Unnamed: 1": "National Foundation for Corporate Social Responsibility (NFCSR)",
+      "Unnamed: 2": "Housed at IICA, Manesar (Gurugram), Haryana",
+      "Unnamed: 3": "CSR policy advocacy, research, and capacity-building",
+      "Unnamed: 4": "Gyaneshwar Kumar Singh; gyaneshwar.s@gov.in"
     }
   ],
   "10.Corporate Affairs ": [
@@ -3940,6 +4150,186 @@
       "Unnamed: 4": "Maharashtra",
       "Unnamed: 5": "Defence technology, engineering, advanced R&D, postgraduate training",
       "Unnamed: 6": "Dr. BHVS Narayana Murthy\ndiatvcsec@diat.ac.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": null,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null,
+      "Unnamed: 6": null
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": null,
+      "Unnamed: 4": "Other essentials",
+      "Unnamed: 5": null,
+      "Unnamed: 6": null
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": "Sr. No.",
+      "Unnamed: 3": "Lab / Institute / Organization",
+      "Unnamed: 4": "Location",
+      "Unnamed: 5": "Disciplines / Functions",
+      "Unnamed: 6": "Director"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 1,
+      "Unnamed: 3": "Border Roads Organisation (BRO)",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Strategic border road & infrastructure construction",
+      "Unnamed: 6": "Lt Gen Harpal Singh, Director General Border Roads (DGBR); bro-dg@nic.in and dgbr-elc@bro.gov.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 2,
+      "Unnamed: 3": "Indian Coast Guard",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Maritime security, search & rescue, coastal defence",
+      "Unnamed: 6": "DG Paramesh Sivamani, Director General ICG; dg@indiancoastguard.nic.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 3,
+      "Unnamed: 3": "Directorate General of Quality Assurance (DGQA)",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "QA of Army/Navy/Air Force arms, ammunition & equipment",
+      "Unnamed: 6": "Shri Sanjeev Kumar, IAS; sdpns@nic.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 4,
+      "Unnamed: 3": "Directorate General of Aeronautical Quality Assurance (DGAQA)",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "QA & acceptance of military aircraft, avionics, missiles",
+      "Unnamed: 6": "Shri Nagaraja R B. Director General; dg.dgaqa@gov.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 5,
+      "Unnamed: 3": "Defence Accounts Department / CGDA",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Defence finance, pay & accounts",
+      "Unnamed: 6": "Shri Vishvajit Sahay; fads1-mod@gov.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 6,
+      "Unnamed: 3": "Directorate General of Defence Estates (DGDE)",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Defence land & cantonment administration",
+      "Unnamed: 6": "Smt Shobha Gupta; dg-dgde@nic.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 7,
+      "Unnamed: 3": "National Cadet Corps (NCC / DGNCC)",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Youth military training, discipline, social service",
+      "Unnamed: 6": "Lt Gen Virendra Vats; m@pon.nic.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 8,
+      "Unnamed: 3": "Territorial Army",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Volunteer second-line defence force",
+      "Unnamed: 6": "Lieutenant General Girish Kalia; brighterkmr@gmail.com"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 9,
+      "Unnamed: 3": "Canteen Stores Department (CSD)",
+      "Unnamed: 4": "Mumbai (HQ)",
+      "Unnamed: 5": "Retail supply of goods to armed forces personnel",
+      "Unnamed: 6": "MAJ GEN SATINDER SINGH,SM Chairman; advisor-lwe@mha.gov.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 10,
+      "Unnamed: 3": "Sainik Schools Society",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Runs Sainik Schools (feeder for NDA)",
+      "Unnamed: 6": "Shri B.K. Sharma; sss@sainikschoolsociety.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 11,
+      "Unnamed: 3": "Armed Forces Tribunal (AFT)",
+      "Unnamed: 4": "New Delhi (Principal Bench)",
+      "Unnamed: 5": "Adjudicates service disputes of armed forces personnel",
+      "Unnamed: 6": "Justice Rajendra Menon, Chairperson; reg.aftrbc@nic.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 12,
+      "Unnamed: 3": "Military Engineer Services (MES)",
+      "Unnamed: 4": "New Delhi (HQ)",
+      "Unnamed: 5": "Construction & maintenance of defence infrastructure",
+      "Unnamed: 6": "PC Meena; mimamsa-mes@gov.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 13,
+      "Unnamed: 3": "Advanced Weapons & Equipment India Ltd (AWEIL)",
+      "Unnamed: 4": "Kanpur",
+      "Unnamed: 5": "Artillery, tank gun articles, small arms, ammunition hardware",
+      "Unnamed: 6": "Shri Umesh Singh: Chairman and Managing Director; cmd@aweil.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 14,
+      "Unnamed: 3": "Yantra India Ltd (YIL)",
+      "Unnamed: 4": "Nagpur",
+      "Unnamed: 5": "Forgings, castings, metal/steel components, armoured vehicle parts",
+      "Unnamed: 6": "Shri Rajeev Kalra, Director, dir.fin@yantraindia.co.in "
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 15,
+      "Unnamed: 3": "India Optel Ltd (IOL)",
+      "Unnamed: 4": "Dehradun",
+      "Unnamed: 5": "Optical & optronic defence equipment",
+      "Unnamed: 6": "Smt. Sharmishtha Koul Sharma; cmd@indiaoptel.in"
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 16,
+      "Unnamed: 3": "Troop Comforts Ltd (TCL)",
+      "Unnamed: 4": "Kanpur",
+      "Unnamed: 5": "Clothing, general stores, troop comfort items",
+      "Unnamed: 6": "Shri Rajeev Sharma; dirops@troopcomfortslimited.co.in "
+    },
+    {
+      "Defence (MoD)": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 17,
+      "Unnamed: 3": "Aeronautical Development Agency (ADA)",
+      "Unnamed: 4": "Bengaluru",
+      "Unnamed: 5": "LCA Tejas, Tejas Mk2, AMCA fighter aircraft design",
+      "Unnamed: 6": "Dr. Jitendra J. Jadhav, Director General; j.jadhav@gov.in"
     }
   ],
   "13.North Eastern Council (NEC)": [
@@ -4122,73 +4512,17 @@
     },
     {
       "Earth Sciences (MoES)": 12,
-      "Unnamed: 1": "CSIR \u2013 National Institute of Oceanography (NIO)",
-      "Unnamed: 2": "Goa",
-      "Unnamed: 3": "Marine Science Research",
-      "Unnamed: 4": "Prof. Sunil Kumar Singh\nsunil.nio@csir.res.in"
-    },
-    {
-      "Earth Sciences (MoES)": 13,
       "Unnamed: 1": "Earthquake Risk Evaluation Centre",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": " Assesses earthquake risks.",
       "Unnamed: 4": " Dr. B. K. Bansal\ndirector-ncs@gov.in"
     },
     {
-      "Earth Sciences (MoES)": 14,
+      "Earth Sciences (MoES)": 13,
       "Unnamed: 1": "Integrated Coastal and Marine Area Management Project Directorate (ICMAM-PD)",
       "Unnamed: 2": "Chennai, Tamil Nadu",
       "Unnamed: 3": "coastal zone management, marine science, oceanography, environmental science, GIS & remote sensing, and marine ecology.",
       "Unnamed: 4": "Dr. M.V. Ramana Murthy\nmvr@nccr.gov.in"
-    },
-    {
-      "Earth Sciences (MoES)": 15,
-      "Unnamed: 1": "National Centre for Medium Range Weather Forecasting",
-      "Unnamed: 2": "Uttar Pradesh",
-      "Unnamed: 3": "Numerical weather prediction, climate modeling, weather forecasting research",
-      "Unnamed: 4": "Dr. V.S. Prasad \nakm@ncmrwf.gov.in"
-    },
-    {
-      "Earth Sciences (MoES)": 16,
-      "Unnamed: 1": "Indian National Centre for Ocean Information Services ",
-      "Unnamed: 2": "Telangana",
-      "Unnamed: 3": "Ocean information services, tsunami warning, marine data & forecasting",
-      "Unnamed: 4": "Dr. T.M. Balakrishnan Nair\ndirector@incois.gov.in"
-    },
-    {
-      "Earth Sciences (MoES)": 17,
-      "Unnamed: 1": "National Centre for Polar and Ocean Research",
-      "Unnamed: 2": "Goa",
-      "Unnamed: 3": "Polar research (Antarctica/Arctic), oceanography & climate studies",
-      "Unnamed: 4": " Dr. Thamban Meloth\ndirector@ncpor.res.in"
-    },
-    {
-      "Earth Sciences (MoES)": 18,
-      "Unnamed: 1": "National Centre for Earth Science Studies",
-      "Unnamed: 2": "Kerala",
-      "Unnamed: 3": "Earth system science, geology, geophysics, climate studies",
-      "Unnamed: 4": "Prof. N. V. Chalapathi Rao\ndirector@ncess.gov.in"
-    },
-    {
-      "Earth Sciences (MoES)": 19,
-      "Unnamed: 1": "Centre for Marine Living Resources & Ecology",
-      "Unnamed: 2": "Kerala",
-      "Unnamed: 3": "Marine biodiversity, ocean ecology & living resources research",
-      "Unnamed: 4": " Dr. G.V.M. Gupta\ndirector@cmlre.gov.in"
-    },
-    {
-      "Earth Sciences (MoES)": 20,
-      "Unnamed: 1": "National Centre for Seismology",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Seismology, earthquake monitoring & seismic hazard studies",
-      "Unnamed: 4": "Dr. O. P. Mishra\ndirector-ncs@gov.in\n"
-    },
-    {
-      "Earth Sciences (MoES)": 21,
-      "Unnamed: 1": "National Centre for Coastal Research",
-      "Unnamed: 2": "Tamil Nadu",
-      "Unnamed: 3": "Coastal processes, shoreline management & marine pollution studies",
-      "Unnamed: 4": "Dr. M. V. Ramana Murthy.\nmvr@nccr.gov.in."
     }
   ],
   "15.Education (MoE)": [
@@ -5493,6 +5827,41 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Science\nCommerce\nHumanities (Arts)",
       "Unnamed: 4": "Jigme Namgyal\neducation@tibet.net"
+    },
+    {
+      "Education (MoE)": 9,
+      "Unnamed: 1": "National Institute of Educational Planning & Administration (NIEPA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Educational planning, policy & administration research (Deemed University)",
+      "Unnamed: 4": "Prof. Shashikala G. Wanjari, Vice-Chancellor; vc@niepa.ac.in"
+    },
+    {
+      "Education (MoE)": 10,
+      "Unnamed: 1": "National Bal Bhavan",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Creative, cultural & extracurricular development for children (5\u201316 yrs)",
+      "Unnamed: 4": "Mr. A. K. Singh, nbb.admin@gmail.com"
+    },
+    {
+      "Education (MoE)": 11,
+      "Unnamed: 1": "National Council for Promotion of Urdu Language (NCPUL)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Urdu language promotion, publication & education",
+      "Unnamed: 4": "Dr. Md. Shams Equbal. Director; director@ncpul.in"
+    },
+    {
+      "Education (MoE)": 12,
+      "Unnamed: 1": "Schools of Planning & Architecture (SPAs) \u2014 Delhi, Bhopal, Vijayawada",
+      "Unnamed: 2": "New Delhi / Bhopal / Vijayawada",
+      "Unnamed: 3": "Architecture, planning, design education (Institutes of National Importance)",
+      "Unnamed: 4": "Prof. Dr. Ramesh Srikonda; ramesh.srikonda@spav.ac.in"
+    },
+    {
+      "Education (MoE)": 13,
+      "Unnamed: 1": "NCPSL (Sindhi) & CSTT (Scientific/Technical Terminology)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Sindhi language promotion; scientific/technical terminology development",
+      "Unnamed: 4": "Dr. Ravi Prakash Tekchandani; head@mil.du.ac.in"
     }
   ],
   "16.Electronics and Information": [
@@ -5673,85 +6042,71 @@
     },
     {
       "Electronics and Information Technology (MeitY)": 25,
-      "Unnamed: 1": "Centre for Development of Telematics (C-DOT)",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Indigenous telecom R&D; 4G/5G/6G systems; optical fibre networks; switching technologies; rural & secure communication systems",
-      "Unnamed: 4": " Dr. Rajkumar Upadhyay"
-    },
-    {
-      "Electronics and Information Technology (MeitY)": 26,
-      "Unnamed: 1": "ITI Limited",
-      "Unnamed: 2": "Bengaluru",
-      "Unnamed: 3": "Telecom equipment manufacturing; network infrastructure; defence communication systems; smart energy & IoT solutions",
-      "Unnamed: 4": "Shri Rajesh Rai \ncmd@itiltd.co.in"
-    },
-    {
-      "Electronics and Information Technology (MeitY)": 27,
-      "Unnamed: 1": "Telecommunications Consultants India Limited (TCIL)",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Telecom consultancy; ICT infrastructure deployment; e-governance projects; international telecom projects",
-      "Unnamed: 4": "Mr. Syed Tausif Abbas\ncil@tcil.net.in"
-    },
-    {
-      "Electronics and Information Technology (MeitY)": 28,
       "Unnamed: 1": "National Critical Information Infrastructure Protection Centre (NCIIPC)*",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Protection of critical information infrastructure; cybersecurity risk assessment; coordination with national security agencies",
       "Unnamed: 4": "Sh. Navin Kumar Singh\n ir@nciipc.gov.in"
     },
     {
-      "Electronics and Information Technology (MeitY)": 29,
+      "Electronics and Information Technology (MeitY)": 26,
       "Unnamed: 1": "Electronics Corporation of India Limited (ECIL)",
       "Unnamed: 2": "Hyderabad",
       "Unnamed: 3": "Electronics Systems Development",
       "Unnamed: 4": "Arvind Prasad Thakur\narvind@ecil.co.in"
     },
     {
-      "Electronics and Information Technology (MeitY)": 30,
+      "Electronics and Information Technology (MeitY)": 27,
       "Unnamed: 1": "National Cyber Coordination Centre (NCCC)",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Cyber Security Monitoring",
       "Unnamed: 4": "Sh. Rajesh Kumar\ndiri4c@mha.gov.in"
     },
     {
-      "Electronics and Information Technology (MeitY)": 31,
+      "Electronics and Information Technology (MeitY)": 28,
       "Unnamed: 1": "Cyber Swachhta Kendra (Botnet Cleaning Centre)",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Malware Detection Cleanup",
       "Unnamed: 4": "csk@cert-in.org.in"
     },
     {
-      "Electronics and Information Technology (MeitY)": 32,
+      "Electronics and Information Technology (MeitY)": 29,
       "Unnamed: 1": "National Knowledge Network (NKN)",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "High Speed Research Network",
       "Unnamed: 4": "Sh. V T V Ramana\n ramana@nicin"
     },
     {
-      "Electronics and Information Technology (MeitY)": 33,
+      "Electronics and Information Technology (MeitY)": 30,
       "Unnamed: 1": "Education and Research Network of India",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Provides internet and networking infrastructure and services for academic and research institutions across India.",
       "Unnamed: 4": "Ms. Preeti Nath\ndg@ernet.in"
     },
     {
-      "Electronics and Information Technology (MeitY)": 34,
+      "Electronics and Information Technology (MeitY)": 31,
       "Unnamed: 1": "Standardisation Testing and Quality Certification",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Offers testing, certification, and quality assurance services for IT, electronics, and e-governance systems.",
       "Unnamed: 4": " Shri M. Vellaipandi\ndgstqc@meity.gov.in"
     },
     {
-      "Electronics and Information Technology (MeitY)": 35,
+      "Electronics and Information Technology (MeitY)": 32,
       "Unnamed: 1": "National Informatics Centre Services Incorporated",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Delivers IT implementation, e-governance solutions, and technical consultancy for government digital projects.",
       "Unnamed: 4": "Shri M. Vellaipandi\ndgstqc@meity.gov.in"
+    },
+    {
+      "Electronics and Information Technology (MeitY)": 33,
+      "Unnamed: 1": "Media Lab Asia",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "ICT for social development, digital inclusion projects",
+      "Unnamed: 4": "Vinay Bhatia; di-webmaster@digitalindia.gov.in"
     }
   ],
   "17.Environment, Forest ": [
     {
-      "Environment, Forest and Climate": "1. Regional Office ",
+      "Environment, Forest and Climate": "1. Regional Office of Ministry of Environment and Forest,Climate Change",
       "Unnamed: 1": null,
       "Unnamed: 2": null,
       "Unnamed: 3": null,
@@ -6675,6 +7030,20 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Facilitates diaspora philanthropy for social development sectors like education, healthcare, sanitation, and livelihood projects",
       "Unnamed: 4": "Smt. Sushma Swaraj\nceo.idf@mea.gov.in\noo.idf@mea.gov.in."
+    },
+    {
+      "External Affairs (MEA)": 67,
+      "Unnamed: 1": "Research & Information System for Developing Countries (RIS)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Think tank on international economic issues",
+      "Unnamed: 4": "Professor Sachin Kumar Sharma; sksharma@ris.org.in, dg@ris.org.in"
+    },
+    {
+      "External Affairs (MEA)": 68,
+      "Unnamed: 1": "South Asian University (SAU), New Delhi",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Regional university (SAARC)",
+      "Unnamed: 4": "Prof. K. K. Aggarwal ; president@sau.int"
     }
   ],
   "19.Finance (MoF) ": [
@@ -7244,6 +7613,69 @@
       "Unnamed: 2": "Haryana",
       "Unnamed: 3": "Banking, finance, fintech, risk management, ESG finance, and financial services",
       "Unnamed: 4": "Dr. Raj Nehru\ndg-sjhifm@hry.gov.in"
+    },
+    {
+      "Finance (MoF)": 27,
+      "Unnamed: 1": "Small Industries Development Bank of India (SIDBI)",
+      "Unnamed: 2": "Lucknow (HQ)",
+      "Unnamed: 3": "MSME financing & development",
+      "Unnamed: 4": "Manoj Mittal, Chairman & Managing Director "
+    },
+    {
+      "Finance (MoF)": 28,
+      "Unnamed: 1": "National Housing Bank (NHB)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Housing finance regulation & refinancing",
+      "Unnamed: 4": "Sanjay Shukla, Managing Director; ho@nhb.org.in"
+    },
+    {
+      "Finance (MoF)": 29,
+      "Unnamed: 1": "Industrial Finance Corporation of India (IFCI)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Industrial/infrastructure development financing",
+      "Unnamed: 4": "Rahul Bhave, MD & CEO; md@ifciltd.com"
+    },
+    {
+      "Finance (MoF)": 30,
+      "Unnamed: 1": "National Bank for Financing Infrastructure & Development (NaBFID)",
+      "Unnamed: 2": "Mumbai",
+      "Unnamed: 3": "Long-term infrastructure financing",
+      "Unnamed: 4": "N S Kannan; company.secretary@nabfid.org"
+    },
+    {
+      "Finance (MoF)": 31,
+      "Unnamed: 1": "National Credit Guarantee Trustee Company (NCGTC)",
+      "Unnamed: 2": "Mumbai",
+      "Unnamed: 3": "Manages credit guarantee funds/schemes",
+      "Unnamed: 4": "SHRI MANOJ MUTTATHIL AYYAPPAN; jsif-dfs@nic.in or jsfi-dfs@nic.in"
+    },
+    {
+      "Finance (MoF)": 32,
+      "Unnamed: 1": "MUDRA (Micro Units Development & Refinance Agency)",
+      "Unnamed: 2": "Mumbai",
+      "Unnamed: 3": "Refinancing micro-enterprise loans (subsidiary of SIDBI)",
+      "Unnamed: 4": "Shri Yalangi Venugopal Rao; venugopal@mudra.org.in."
+    },
+    {
+      "Finance (MoF)": 33,
+      "Unnamed: 1": "Public Sector Banks (PNB, BoB, Canara, Union Bank, etc.)",
+      "Unnamed: 2": "Various HQs",
+      "Unnamed: 3": "Commercial/retail banking",
+      "Unnamed: 4": "Shri Brajesh Kumar Singh; mdceo@canarabank.com."
+    },
+    {
+      "Finance (MoF)": 34,
+      "Unnamed: 1": "Public Sector General Insurers (New India, National, Oriental, United India) + AIC",
+      "Unnamed: 2": "Mumbai/Kolkata/Chennai",
+      "Unnamed: 3": "General insurance; agriculture insurance (AIC)",
+      "Unnamed: 4": null
+    },
+    {
+      "Finance (MoF)": 35,
+      "Unnamed: 1": "GST Council Secretariat / GSTN",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "GST policy coordination; tax IT backbone",
+      "Unnamed: 4": "Pankaj Kumar Singh; pankajksingh@nic.in"
     }
   ],
   "20.Fisheries, Animal Husbandry ": [
@@ -7462,6 +7894,18 @@
       "Unnamed: 1": "National Institute of Food Technology Entrepreneurship and Management (NIFTEM Thanjavur)",
       "Unnamed: 2": "Food Processing Engineering, Food Technology, Value Addition, Post-Harvest Technology, Food Safety & Quality Assurance",
       "Unnamed: 3": " Prof. V. Palanimuthu\ndirector@iifpt.edu.in \n"
+    },
+    {
+      "Food Processing Industries (MoFPI) ": 3,
+      "Unnamed: 1": "Indian Grape Processing Board (IGPB)",
+      "Unnamed: 2": "Grape-based wine industry development & promotion",
+      "Unnamed: 3": "Nitin Desai; nitin.valanju@rediffmail.com"
+    },
+    {
+      "Food Processing Industries (MoFPI) ": 4,
+      "Unnamed: 1": "National Meat & Poultry Processing Board (NMPPB)",
+      "Unnamed: 2": "Meat & poultry processing industry promotion",
+      "Unnamed: 3": "Bikrama Jit;bir.bikramjit@nic.in"
     }
   ],
   "22.Health and Family": [
@@ -7950,6 +8394,66 @@
       "Unnamed: 1": "Vardhman Mahavir Medical College (VMMC), New Delhi",
       "Unnamed: 2": "Medical education, clinical training, tertiary healthcare services, hospital-based research",
       "Unnamed: 3": "Dr. Kavita Rani Sharma\ndirector@vmmc-sjh.nic.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 41,
+      "Unnamed: 1": "Food Safety & Standards Authority of India (FSSAI)",
+      "Unnamed: 2": "Food safety regulation & standards",
+      "Unnamed: 3": "Chairperson: Ms. Punya Salila Srivastava; CEO: Rajit Punhani; chairperson@fssai.gov.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 42,
+      "Unnamed: 1": "Pharmacy Council of India (PCI)",
+      "Unnamed: 2": "Pharmacy education & practice regulation",
+      "Unnamed: 3": "Dr. Montu M. Patel, President; registrar@pci.nic.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 43,
+      "Unnamed: 1": "Dental Council of India (DCI)",
+      "Unnamed: 2": "Dental education & practice regulation",
+      "Unnamed: 3": "Dr. Sanjay Tewari; drsanjaytewari@zohomail.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 44,
+      "Unnamed: 1": "Indian Nursing Council (INC)",
+      "Unnamed: 2": "Nursing & midwifery education standards",
+      "Unnamed: 3": "T. Dileep Kumar, President; president.inc@gov.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 45,
+      "Unnamed: 1": "National Board of Examinations in Medical Sciences (NBEMS)",
+      "Unnamed: 2": "Postgraduate medical exams (DNB, FNB) & accreditation",
+      "Unnamed: 3": "Dr. Minu Bajpai; bajpai2b@gmail.com"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 46,
+      "Unnamed: 1": "National Commission for Allied & Healthcare Professions (NCAHP)",
+      "Unnamed: 2": "Regulation of allied & healthcare professions",
+      "Unnamed: 3": "Dr. Yagna Unmesh Shukla; yagna.shukla@ncahp.mohfw.gov.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 47,
+      "Unnamed: 1": "National Institute of Health & Family Welfare (NIHFW), Delhi",
+      "Unnamed: 2": "Health management training, research, consultancy",
+      "Unnamed: 3": "Dr. Binod Kumar Patro; director@nihfw.org, director.nihfw@nic.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 48,
+      "Unnamed: 1": "International Institute for Population Sciences (IIPS), Mumbai",
+      "Unnamed: 2": "Population studies, demography, public health research",
+      "Unnamed: 3": "Prof. Sanjay Kumar Mohanty; sanjayiips@yahoo.co.in"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 49,
+      "Unnamed: 1": "National Health Systems Resource Centre (NHSRC)",
+      "Unnamed: 2": "Technical support to National Health Mission",
+      "Unnamed: 3": "Pragya Sharma; pragya.sharma@nhsrcindia.org"
+    },
+    {
+      "Health and Family Welfare (MoHFW)": 50,
+      "Unnamed: 1": "AIIHPH (Kolkata) / National TB Institute / CBHI",
+      "Unnamed: 2": "Public health training (AIIHPH); TB research (NTI); health intelligence (CBHI)",
+      "Unnamed: 3": "Dr. Manas Kumar Kundu; director.aiihph@gov.in / kundum2000@gmail.com"
     }
   ],
   "23.Heavy Industries (MoHI) ": [
@@ -8095,143 +8599,94 @@
     },
     {
       "Ministry of Heavy Industries": 20,
-      "Unnamed: 1": "Hindustan Cables Limited (HCL)",
-      "Unnamed: 2": "Kolkata, West Bengal",
-      "Unnamed: 3": "Telecom & power cables (currently non-operational / under closure)",
-      "Unnamed: 4": "Shri Madan Pal Singh\ncmdhclkol@gmail.com\n"
-    },
-    {
-      "Ministry of Heavy Industries": 21,
       "Unnamed: 1": "Bharat Pumps and Compressors Limited",
       "Unnamed: 2": "Prayagraj (Allahabad), Uttar Pradesh",
       "Unnamed: 3": "Industrial pumps & compressors manufacturing",
       "Unnamed: 4": "Shri Abhay Kumar Jain\nakjain@bharatpumps.co.in"
     },
     {
-      "Ministry of Heavy Industries": 22,
-      "Unnamed: 1": "Automotive Skills Development Council (ASDC)",
-      "Unnamed: 2": "New\u202fDelhi",
-      "Unnamed: 3": "Skill development in automotive manufacturing & EV ecosystem",
-      "Unnamed: 4": "Arindam Lahiri\nceo@asdc.org.in\n"
-    },
-    {
-      "Ministry of Heavy Industries": 23,
-      "Unnamed: 1": "Capital Goods Skill Council (CGSC)",
-      "Unnamed: 2": "New\u202fDelhi",
-      "Unnamed: 3": "Skill development for capital goods & heavy engineering sector",
-      "Unnamed: 4": " Ms. Shalini Singh\ninfo@cgssc.org"
-    },
-    {
-      "Ministry of Heavy Industries": 24,
+      "Ministry of Heavy Industries": 21,
       "Unnamed: 1": "Scooters India Limited (SIL)",
       "Unnamed: 2": "Lucknow, Uttar Pradesh",
       "Unnamed: 3": "Automobile manufacturing (scooters & small vehicles), engineering production.",
       "Unnamed: 4": "Navin Kaul\ncsscootersindia@gmail.com"
     },
     {
-      "Ministry of Heavy Industries": 25,
+      "Ministry of Heavy Industries": 22,
       "Unnamed: 1": "Nagaland Pulp & Paper Company Limited (NPPC)",
       "Unnamed: 2": "Tuli, Mokokchung, Nagaland",
       "Unnamed: 3": "Pulp and paper production, industrial manufacturing processes.",
       "Unnamed: 4": "companysecretary.hpc@gmail.com"
     },
     {
-      "Ministry of Heavy Industries": 26,
+      "Ministry of Heavy Industries": 23,
       "Unnamed: 1": "HMT Watches Limited",
       "Unnamed: 2": "Bengaluru, Karnataka",
       "Unnamed: 3": "Watch manufacturing, precision engineering, industrial product design.",
       "Unnamed: 4": "Shri Ramesh Sharma\ninfo@hmtwatches.in"
     },
     {
-      "Ministry of Heavy Industries": 27,
+      "Ministry of Heavy Industries": 24,
       "Unnamed: 1": "International Centre for Automotive Technology (ICAT)",
       "Unnamed: 2": "Manesar, Haryana",
       "Unnamed: 3": "Automotive testing, homologation, NVH (Noise, Vibration, and Harshness) testing, and vehicle R&D.",
       "Unnamed: 4": "Shri Saurabh Dalela (Director)\n\ndirector@icat.in"
     },
     {
-      "Ministry of Heavy Industries": 28,
+      "Ministry of Heavy Industries": 25,
       "Unnamed: 1": "Global Automotive Research Centre (GARC)",
       "Unnamed: 2": "Oragadam, Chennai",
       "Unnamed: 3": "Automotive certification, passive safety testing, electromagnetic compatibility (EMC), and R&D infrastructure.",
       "Unnamed: 4": "Director, GARC\n\nenquiry@garc.co.in"
     },
     {
-      "Ministry of Heavy Industries": 29,
+      "Ministry of Heavy Industries": 26,
       "Unnamed: 1": "National Automotive Test Tracks (NATRAx)",
       "Unnamed: 2": "Pithampur, Madhya Pradesh",
       "Unnamed: 3": "Vehicle dynamics, high-speed automotive test tracks, and performance evaluation.",
       "Unnamed: 4": "Dr. Manish Jaiswal (Director)\n\nnatrax@natrip.in"
     },
     {
-      "Ministry of Heavy Industries": 30,
+      "Ministry of Heavy Industries": 27,
       "Unnamed: 1": "National Automotive Board (NAB)",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Nodal agency for executing the FAME India scheme, Auto PLI scheme, and promoting the EV ecosystem.",
       "Unnamed: 4": "ea.dhi@nic.in\nnic-mhi@nic.in."
     },
     {
-      "Ministry of Heavy Industries": 31,
+      "Ministry of Heavy Industries": 28,
       "Unnamed: 1": "Hindustan Paper Corporation Limited (HPC)",
       "Unnamed: 2": "Kolkata, West Bengal",
       "Unnamed: 3": "Paper and pulp manufacturing (Currently under liquidation process).",
       "Unnamed: 4": "Shri H. D. Kumaraswamy\nminoff-dhi@nic.in"
     },
     {
-      "Ministry of Heavy Industries": 32,
-      "Unnamed: 1": "Hindustan Photo Films Manufacturing Co. Ltd. (HPF)",
-      "Unnamed: 2": "Ootacamund (Ooty), Tamil Nadu",
-      "Unnamed: 3": "Manufacturing of medical X-ray films, graphic arts, and photo films (Currently under closure).",
-      "Unnamed: 4": "Mr. Mahalingam Suresh Kumar\nindu@hpf-india.com."
-    },
-    {
-      "Ministry of Heavy Industries": 33,
-      "Unnamed: 1": "Triveni Structurals Limited (TSL)",
-      "Unnamed: 2": "Prayagraj, Uttar Pradesh",
-      "Unnamed: 3": "Fabrication of heavy building structures, hydraulic gates, pressure vessels, and steel towers (Currently under closure).",
-      "Unnamed: 4": "Subhash Chand Agrawal\ntslnaini@rediffmail.com"
-    },
-    {
-      "Ministry of Heavy Industries": 34,
-      "Unnamed: 1": "Tungabhadra Steel Products Limited (TSPL)",
-      "Unnamed: 2": "Hospet, Karnataka",
-      "Unnamed: 3": "Design and manufacture of hydraulic structures, penstocks, and power plant equipment (Currently under closure).",
-      "Unnamed: 4": "Yogendra Kumar Vaish\ntsptbdamz@sancharnet.in"
-    },
-    {
-      "Ministry of Heavy Industries": 35,
+      "Ministry of Heavy Industries": 29,
       "Unnamed: 1": "HMT Bearings Limited",
       "Unnamed: 2": "Hyderabad, Telangana",
       "Unnamed: 3": "Ball and roller bearings manufacturing (Subsidiary of HMT Limited).",
       "Unnamed: 4": "Ms. Arti Bhatnagar\narti.bhatnagar@nic.in\nMs. Mukta Shekhar\njsms-mhi@gov.in"
     },
     {
-      "Ministry of Heavy Industries": 36,
+      "Ministry of Heavy Industries": 30,
       "Unnamed: 1": "HMT Chinar Watches Limited",
       "Unnamed: 2": "Srinagar, Jammu & Kashmir",
       "Unnamed: 3": "Watch manufacturing and precision assembly (Subsidiary of HMT Limited).",
       "Unnamed: 4": "N Ramesh Kumar\ncmd@hmtindia.com"
     },
     {
-      "Ministry of Heavy Industries": 37,
+      "Ministry of Heavy Industries": 31,
       "Unnamed: 1": "Automotive Skill Development Council ",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Skill development and training for automotive manufacturing, sales, servicing, and repair",
       "Unnamed: 4": "Mr. Arindam Lahiri\nceo@asdc.org.in"
     },
     {
-      "Ministry of Heavy Industries": 38,
+      "Ministry of Heavy Industries": 32,
       "Unnamed: 1": "Capital Goods & Strategic Skill Council",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Skill development in capital goods sector\u2014manufacturing, heavy engineering, machinery, and strategic industries",
       "Unnamed: 4": " Ms. Shalini Singh\ninfo@cgssc.org\nceo@cgssc.org"
-    },
-    {
-      "Ministry of Heavy Industries": 39,
-      "Unnamed: 1": "Infrastructure Equipment Skill Council",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Training and certification for infrastructure equipment operations, construction machinery, and heavy equipment handling",
-      "Unnamed: 4": "Mr. H S Mohan\nhs.mohan@iescindia.com"
     }
   ],
   "24.Home Affairs (MHA) ": [
@@ -8570,6 +9025,18 @@
       "Unnamed: 1": "Committee of Parliament on Official Language",
       "Unnamed: 2": "Reviewing the progress made in the use of Hindi for the official purposes of the Union",
       "Unnamed: 3": "Ms. Ansuli Arya\nsecy-ol@nic.in"
+    },
+    {
+      "Ministry of Home Affairs (MHA)": 56,
+      "Unnamed: 1": "Delhi Police",
+      "Unnamed: 2": "Law enforcement for NCT of Delhi",
+      "Unnamed: 3": "Anurag Kumar, IPS; cpdelhi@delhipolice.gov.in"
+    },
+    {
+      "Ministry of Home Affairs (MHA)": 57,
+      "Unnamed: 1": "National Intelligence Grid (NATGRID)",
+      "Unnamed: 2": "Intelligence data-sharing platform for security agencies",
+      "Unnamed: 3": "Rohit Malpani; ceo@natgrid.gov.in "
     }
   ],
   "25.Housing and Urban Affair": [
@@ -8830,6 +9297,18 @@
       "Unnamed: 1": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) Directorate",
       "Unnamed: 2": "Micro-credit facility for street vendors, financial inclusion, digital payments",
       "Unnamed: 3": "querysvs@cgtmse.in\nitsupportsvs@cgtmse.in"
+    },
+    {
+      "Housing and Urban Affairs (MoHUA)": 43,
+      "Unnamed: 1": "Delhi Urban Art Commission (DUAC)",
+      "Unnamed: 2": "Aesthetic/architectural oversight of Delhi's public buildings",
+      "Unnamed: 3": "Shri Ashutosh Kumar Agarwal; duac@gov.in ar.ashutoshagarwal@gmail.com"
+    },
+    {
+      "Housing and Urban Affairs (MoHUA)": 44,
+      "Unnamed: 1": "Rajghat Samadhi Committee",
+      "Unnamed: 2": "Maintenance of Gandhi's memorial at Rajghat",
+      "Unnamed: 3": "Sh. Manohar Lal; gandhisamadhi@gmail.com"
     }
   ],
   "26.Information and Broadcasting": [
@@ -9604,6 +10083,20 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "International & domestic arbitration, mediation, and commercial dispute resolution",
       "Unnamed: 4": "Mr. Navin Kumar Singh\ncontact@indiaiac.org"
+    },
+    {
+      "Ministry of Law & Justice": 8,
+      "Unnamed: 1": "Law Commission of India",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Law reform recommendations",
+      "Unnamed: 4": "Hon'ble Mr. Justice (Retd.) Dinesh Maheshwari, Chairperson; dinesh.maheshwari@gov.in"
+    },
+    {
+      "Ministry of Law & Justice": 9,
+      "Unnamed: 1": "National Judicial Academy (NJA), Bhopal",
+      "Unnamed: 2": "Bhopal",
+      "Unnamed: 3": "Judicial training",
+      "Unnamed: 4": "Prof. (Dr.) Vinod Kumar; njabhopal@nja.gov.in"
     }
   ],
   "30.Micro, Small & Medium ": [
@@ -9863,6 +10356,30 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Mineral policy research, techno-economic analysis & advisory in mining sector",
       "Unnamed: 4": "Shri Vivek Kumar Sharma\nvksharma.ofb@gov.in\n\n",
+      "Unnamed: 6": null
+    },
+    {
+      "Ministry of Mines": 18,
+      "Unnamed: 1": "Mineral Exploration Corporation Limited (MECL)",
+      "Unnamed: 2": "Maharashtra",
+      "Unnamed: 3": "Mineral exploration, geological surveys, drilling & resource assessment",
+      "Unnamed: 4": "Shri Indra Dev Narayan\ndf@mecl.co.in",
+      "Unnamed: 6": null
+    },
+    {
+      "Ministry of Mines": 19,
+      "Unnamed: 1": "National Aluminium Company Limited (NALCO)",
+      "Unnamed: 2": "Odisha",
+      "Unnamed: 3": "Aluminium production, mining (bauxite), refining, smelting & metal manufacturing",
+      "Unnamed: 4": "Shri Brijendra Pratap Singh\ncmd@nalcoindia.co.in",
+      "Unnamed: 6": null
+    },
+    {
+      "Ministry of Mines": 20,
+      "Unnamed: 1": "Hindustan Copper Limited (HCL)",
+      "Unnamed: 2": "West bengal",
+      "Unnamed: 3": "Copper mining, extraction, smelting & copper product manufacturing",
+      "Unnamed: 4": "Mr. Ravi Kumar \nravi_g@hindustancopper.com",
       "Unnamed: 6": null
     }
   ],
@@ -10329,6 +10846,13 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Promotion of sports and cultural activities among Central Government employees",
       "Unnamed: 4": "Sood.vanita@gov.in\nisawanda@gmail.com\nSatyendra Singh\nsingh.satyendra80@gov.in"
+    },
+    {
+      "Ministry of Personnel,Public Grievances & Pensions": 21,
+      "Unnamed: 1": "Lokpal of India",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Anti-corruption ombudsman for public officials",
+      "Unnamed: 4": "Justice Ajay Manikrao Khanwilkar, Chairperson; pg-adminofficers@lokpal.gov.in "
     }
   ],
   "37.Petroleum and Natural Gas": [
@@ -10548,6 +11072,13 @@
       "Unnamed: 2": "Gurugram (Haryana)",
       "Unnamed: 3": "Training & Management Development for Oil & Gas Sector",
       "Unnamed: 4": "Mr. Anilkumar G\nanil@actionrichglobal.com\n"
+    },
+    {
+      "Ministry of Petroleum and Natural Gas (MoPNG) ": 28,
+      "Unnamed: 1": "Petroleum Conservation Research Association (PCRA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Fuel conservation research & awareness",
+      "Unnamed: 4": "Varuna Mittal; varunamittal@pcra.org"
     }
   ],
   "38.Planning": [
@@ -10580,39 +11111,11 @@
       "Unnamed: 4": "Ms. Urvashi Prasad \nurvashi.prasad@nic.in\nSh. Nirmal Kumar Bhagat\nnirmalk.bhagat@nic.in"
     },
     {
-      "Ministry of Planning": 3,
-      "Unnamed: 1": "Planning Commission of India",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Five-Year Plans; resource allocation; national development strategy",
-      "Unnamed: 4": "Ms. Sindhushree Khullar\n \tsecypc@nic.in"
-    },
-    {
-      "Ministry of Planning": 4,
-      "Unnamed: 1": "National Institute of Educational Planning and Administration",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Educational planning, policy, administration & management",
-      "Unnamed: 4": "Prof. Shashikala Wanjari\nvc@niepa.ac.in\nShri Surya Narayan Mishra\nregistrar@niepa.ac.in"
-    },
-    {
       "Ministry of Planning": 5,
       "Unnamed: 1": "Institute of Town Planners",
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Urban & regional planning, town planning standards and professional training",
       "Unnamed: 4": " Shri Pradeep Kapoor\npkapoor57@gmail.com\nT Pr. Jitendra L. Bhople \nsg@itpi.org.in"
-    },
-    {
-      "Ministry of Planning": 6,
-      "Unnamed: 1": "School of Planning and Architecture",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Architecture, urban planning & design",
-      "Unnamed: 4": "Prof. Dr. Virendra Kumar Paul\ndirectorspadoffice@spa.ac.in\nVirendra Kumar\ndeputyregistrar@spa.ac.in"
-    },
-    {
-      "Ministry of Planning": 7,
-      "Unnamed: 1": "National Institute of Urban Affairs",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Urban development research, policy & capacity building",
-      "Unnamed: 4": "Dr. Debolina Kundu\nrsangam@niua.org\nShri Katikithala Srinivas\nsecyurban@nic.in"
     },
     {
       "Ministry of Planning": 8,
@@ -10627,27 +11130,6 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Development planning, policy formulation, monitoring & implementation",
       "Unnamed: 4": " Mr. Shahzada Bilal Ahmad\njkpdmd.2020@jk.gov.in"
-    },
-    {
-      "Ministry of Planning": 10,
-      "Unnamed: 1": "National Statistical Office (NSO)",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Official statistics, national data collection & analysis",
-      "Unnamed: 4": "Ms. Geeta Singh Rathore\ndg.nss-nso@mospi.gov.in\nDr. Saurabh Garg\nsecretary@mospi.gov.in"
-    },
-    {
-      "Ministry of Planning": 11,
-      "Unnamed: 1": "Directorate General of Employment & Training (DGET)",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Skill development, employment services, vocational training policy",
-      "Unnamed: 4": "Shri Ajoy Sharma\njsajoy-mole@gov.in"
-    },
-    {
-      "Ministry of Planning": 12,
-      "Unnamed: 1": "National Sample Survey Office (NSSO)",
-      "Unnamed: 2": "New Delhi",
-      "Unnamed: 3": "Large-scale socio-economic surveys & sample data collection",
-      "Unnamed: 4": "Ms. Geeta Singh Rathor\ndg.nss-nso@mospi.gov.in"
     },
     {
       "Ministry of Planning": 13,
@@ -11051,6 +11533,48 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Power systems training (generation, transmission, distribution & grid management)",
       "Unnamed: 4": "Shri Hemant Jain\ndg.npti@gov.in"
+    },
+    {
+      "Power": 18,
+      "Unnamed: 1": "Appellate Tribunal for Electricity (APTEL)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Appeals in electricity sector disputes",
+      "Unnamed: 4": "Shri Dinesh Singh Dhanik; aao-aptel@nic.in"
+    },
+    {
+      "Power": 19,
+      "Unnamed: 1": "Damodar Valley Corporation (DVC)",
+      "Unnamed: 2": "Kolkata",
+      "Unnamed: 3": "Multipurpose river valley power/irrigation",
+      "Unnamed: 4": "Shri Gurdeep Singh; chairman@dvc.gov.in"
+    },
+    {
+      "Power": 20,
+      "Unnamed: 1": "Bhakra Beas Management Board (BBMB)",
+      "Unnamed: 2": "Chandigarh",
+      "Unnamed: 3": "Bhakra & Beas dam power/irrigation management",
+      "Unnamed: 4": "Manoj Tripathi, CPES, cman@bbmb.nic.in"
+    },
+    {
+      "Power": 21,
+      "Unnamed: 1": "Grid Controller of India Ltd (GRID-INDIA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "National power grid operation (erstwhile POSOCO)",
+      "Unnamed: 4": "Mr. Samir Chandra Saxena; saxena.samir@gmail.com"
+    },
+    {
+      "Power": 22,
+      "Unnamed: 1": "North Eastern Electric Power Corporation (NEEPCO)",
+      "Unnamed: 2": "Shillong",
+      "Unnamed: 3": "Power generation in NE India",
+      "Unnamed: 4": "Gurdeep Singh CMD; director.finance@neepco.co.in"
+    },
+    {
+      "Power": 23,
+      "Unnamed: 1": "Energy Efficiency Services Ltd (EESL)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Energy efficiency implementation (PSU JV)",
+      "Unnamed: 4": "RAVISANKAR GANESAN; companysecretary@eesl.co.in."
     }
   ],
   "41.Railways": [
@@ -11263,6 +11787,97 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Specialized in modernizing workshop technology.",
       "Unnamed: 4": "Shri P. Ananth\npcao-rly@cofmow.railnet.gov.in\n"
+    },
+    {
+      "Railways (MoR)": 41,
+      "Unnamed: 1": "Indian Railway Catering & Tourism Corp (IRCTC)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Catering, tourism, online ticketing for Indian Railways",
+      "Unnamed: 4": "Rahul Himalian, CMD (additional charge, since 20 Jul 2026, following Sanjay Kumar Jain's resignation)"
+    },
+    {
+      "Railways (MoR)": 42,
+      "Unnamed: 1": "Indian Railway Finance Corporation (IRFC)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Financing/leasing for Indian Railways' rolling stock & infrastructure",
+      "Unnamed: 4": "Manoj Kumar Dubey, Chairman, MD & CEO; info@irfc.co.in"
+    },
+    {
+      "Railways (MoR)": 43,
+      "Unnamed: 1": "RITES Ltd",
+      "Unnamed: 2": "Gurugram",
+      "Unnamed: 3": "Railway/transport engineering consultancy (domestic & export)",
+      "Unnamed: 4": "Rahul Mithal, Chairman & Managing Director; cmd@rites.com"
+    },
+    {
+      "Railways (MoR)": 44,
+      "Unnamed: 1": "IRCON International Ltd",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Railway & infrastructure construction (domestic & international)",
+      "Unnamed: 4": "Shri Saleem Ahmad; cmdsectt@ircon.org"
+    },
+    {
+      "Railways (MoR)": 45,
+      "Unnamed: 1": "RailTel Corporation of India (RCIL)",
+      "Unnamed: 2": "Gurugram",
+      "Unnamed: 3": "Telecom/broadband network on railway right-of-way",
+      "Unnamed: 4": "Sanjai Kumar, Chairman & Managing Director (since Sep 2022); sanjai@railtelindia.com"
+    },
+    {
+      "Railways (MoR)": 46,
+      "Unnamed: 1": "Rail Vikas Nigam Ltd (RVNL)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Railway project execution (new lines, doubling, electrification)",
+      "Unnamed: 4": "Saleem Ahmad, Chairman & Managing Director; cmdrvnl@rvnl.org"
+    },
+    {
+      "Railways (MoR)": 47,
+      "Unnamed: 1": "Container Corporation of India (CONCOR)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Containerized cargo logistics & multimodal transport",
+      "Unnamed: 4": "Sanjay Swarup, Chairman & Managing Director; cmd@concorindia.com"
+    },
+    {
+      "Railways (MoR)": 48,
+      "Unnamed: 1": "Dedicated Freight Corridor Corp (DFCCIL)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Dedicated freight rail corridor construction & operation",
+      "Unnamed: 4": "Praveen Kumar, Managing Director; praveenkumar@dfcc.co.in"
+    },
+    {
+      "Railways (MoR)": 49,
+      "Unnamed: 1": "Konkan Railway Corporation (KRCL)",
+      "Unnamed: 2": "Navi Mumbai (CBD Belapur)",
+      "Unnamed: 3": "Railway construction & operation (Konkan route)",
+      "Unnamed: 4": "Shri Rajeev Kumar Mishra ; cmd@krcl.co.in"
+    },
+    {
+      "Railways (MoR)": 50,
+      "Unnamed: 1": "Rail Land Development Authority (RLDA)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Commercial development of surplus railway land",
+      "Unnamed: 4": "Manoj Garg, Vice Chairman (since Jun 2024); vc@rlda.railnet.gov.in"
+    },
+    {
+      "Railways (MoR)": 51,
+      "Unnamed: 1": "Mumbai Rail Vikas Corporation (MRVC)",
+      "Unnamed: 2": "Mumbai (Churchgate)",
+      "Unnamed: 3": "Mumbai suburban rail infrastructure (MUTP)",
+      "Unnamed: 4": "Subhash Chand Gupta, Chairman & Managing Director; subhash.chand@ircon.org"
+    },
+    {
+      "Railways (MoR)": 52,
+      "Unnamed: 1": "Pipavav Railway Corp (PRCL) / Kutch Railway",
+      "Unnamed: 2": "Gandhidham/Pipavav, Gujarat",
+      "Unnamed: 3": "Rail line development in Gujarat (JV model)",
+      "Unnamed: 4": "SEEMA KUMAR; prcl@pipavavrailway.com cfo@pipavavrailway.com"
+    },
+    {
+      "Railways (MoR)": 53,
+      "Unnamed: 1": "Central Organisation for Railway Electrification (CORE)",
+      "Unnamed: 2": "Prayagraj (Allahabad)",
+      "Unnamed: 3": "Railway electrification planning & execution",
+      "Unnamed: 4": "Ashok Kumar Verma; gm@core.railnet.gov.in"
     }
   ],
   "42.Road Transport": [
@@ -11405,13 +12020,6 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Road Engineering Standards, Policy, Research & Guidelines",
       "Unnamed: 4": "Shri S.K. Nirmal\nsecygen.irc@gov.in"
-    },
-    {
-      "Road Transport and Highways (MoRTH)": 13,
-      "Unnamed: 1": "Central Road Research Institute",
-      "Unnamed: 2": "Pan-India",
-      "Unnamed: 3": "Road & Transport Research (pavement, traffic engineering, materials, safety studies)",
-      "Unnamed: 4": "Dr. Chalumuri Ravi Sekhar\ndirector.crri@nic.in"
     }
   ],
   "43.Rural Development": [
@@ -12475,11 +13083,25 @@
       "Unnamed: 4": "Dr. Kishore Sreenivasan\ncontact@urdip.res.in"
     },
     {
-      "Science and Technology (MST) ": null,
-      "Unnamed: 1": null,
-      "Unnamed: 2": null,
-      "Unnamed: 3": null,
-      "Unnamed: 4": null
+      "Science and Technology (MST) ": 43,
+      "Unnamed: 1": "CSIR \u2013 National Institute of Oceanography (NIO)",
+      "Unnamed: 2": "Goa",
+      "Unnamed: 3": "Marine Science Research",
+      "Unnamed: 4": "Prof. Sunil Kumar Singh\nsunil.nio@csir.res.in"
+    },
+    {
+      "Science and Technology (MST) ": 44,
+      "Unnamed: 1": "Central Institute of Mining and Fuel Research (CIMFR)",
+      "Unnamed: 2": "Jharkhand",
+      "Unnamed: 3": "Mining research, coal beneficiation, fuel technology, geotechnical engineering, energy and environmental studies, mineral processing, mine safety research",
+      "Unnamed: 4": "Prof. Arvind Kumar Mishra\ndirector@cimfr.res.in"
+    },
+    {
+      "Science and Technology (MST) ": 45,
+      "Unnamed: 1": "Central Road Research Institute",
+      "Unnamed: 2": "Pan-India",
+      "Unnamed: 3": "Road & Transport Research (pavement, traffic engineering, materials, safety studies)",
+      "Unnamed: 4": "Dr. Chalumuri Ravi Sekhar\ndirector.crri@nic.in"
     },
     {
       "Science and Technology (MST) ": "S. No.",
@@ -12515,6 +13137,20 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Focuses on technology assessment and forecasting.",
       "Unnamed: 4": "Dr. Pradeep Srivastava\ntifacinfo@tifac.org.in\n"
+    },
+    {
+      "Science and Technology (MST) ": 5,
+      "Unnamed: 1": "TIFAC (Technology Information, Forecasting & Assessment Council)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Technology foresight, assessment & innovation support",
+      "Unnamed: 4": "Prof. Pradeep Srivastava; pksrivastava.bce@iitbhu.ac.in"
+    },
+    {
+      "Science and Technology (MST) ": 6,
+      "Unnamed: 1": "SERB \u2192 Anusandhan National Research Foundation (ANRF)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Apex research funding & strategic direction for S&T (subsumed SERB)",
+      "Unnamed: 4": "Dr. Shivkumar Kalyanaraman, Chief Executive Officer; ceo@anrf.gov.in"
     }
   ],
   "45.Skill Development": [
@@ -12664,6 +13300,27 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Monitoring of JSS Network & NGO Grants",
       "Unnamed: 4": "Shri Indu Bhusan Lenka (DS)\n\nindu.bhusan@nic.in"
+    },
+    {
+      "Skill Development and Entrepreneurship (MSDE) ": 18,
+      "Unnamed: 1": "Infrastructure Equipment Skill Council",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Training and certification for infrastructure equipment operations, construction machinery, and heavy equipment handling",
+      "Unnamed: 4": "Mr. H S Mohan\nhs.mohan@iescindia.com"
+    },
+    {
+      "Skill Development and Entrepreneurship (MSDE) ": 19,
+      "Unnamed: 1": "Automotive Skills Development Council (ASDC)",
+      "Unnamed: 2": "New\u202fDelhi",
+      "Unnamed: 3": "Skill development in automotive manufacturing & EV ecosystem",
+      "Unnamed: 4": "Arindam Lahiri\nceo@asdc.org.in\n"
+    },
+    {
+      "Skill Development and Entrepreneurship (MSDE) ": 20,
+      "Unnamed: 1": "Capital Goods Skill Council (CGSC)",
+      "Unnamed: 2": "New\u202fDelhi",
+      "Unnamed: 3": "Skill development for capital goods & heavy engineering sector",
+      "Unnamed: 4": " Ms. Shalini Singh\ninfo@cgssc.org"
     }
   ],
   "46.Social Justice": [
@@ -12904,6 +13561,34 @@
       "Unnamed: 2": "New Delhi",
       "Unnamed: 3": "Ministry HR, Compliance, CPGRAMS Grievances",
       "Unnamed: 4": "Shri Arvind Kumar \n\narvind.kumar84@nic.in"
+    },
+    {
+      "Social Justice and Empowerment (MoSJE)": 28,
+      "Unnamed: 1": "Rehabilitation Council of India (RCI)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Regulates training/education for rehabilitation professionals",
+      "Unnamed: 4": "Ms. V. Vidyavathi, IAS; secretaryda-msje@nic.in"
+    },
+    {
+      "Social Justice and Empowerment (MoSJE)": 29,
+      "Unnamed: 1": "Chief Commissioner for Persons with Disabilities (CCPD)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Safeguards rights of persons with disabilities (quasi-judicial)",
+      "Unnamed: 4": "Dr. Kamlesh Kumar Pandey, Chief Commissioner; ccpd@nic.in"
+    },
+    {
+      "Social Justice and Empowerment (MoSJE)": 30,
+      "Unnamed: 1": "National Trust (Autism, CP, Mental Retardation & Multiple Disabilities)",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Welfare/legal guardianship for persons with these four disabilities",
+      "Unnamed: 4": "Shri K. R. Vaidheeswaran; jsa-dsir@nic.in"
+    },
+    {
+      "Social Justice and Empowerment (MoSJE)": 31,
+      "Unnamed: 1": "National Commission for Scheduled Castes (NCSC) / CRCs",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Safeguards constitutional/legal rights of Scheduled Castes",
+      "Unnamed: 4": "Kishor Makwana, Chairman; chairman-ncsc@nic.in"
     }
   ],
   "47.Statistics and Programme": [
@@ -13834,52 +14519,52 @@
     },
     {
       "Tribal Affairs (MoTA)": 29,
-      "Unnamed: 1": "NIT Rourkela (Department of Humanities and Social Sciences)",
-      "Unnamed: 2": "Odisha",
-      "Unnamed: 3": "Economics, sociology, psychology, philosophy, communication studies, English, social sciences",
-      "Unnamed: 4": "Prof. K. Umamaheshwar Rao\ndirector@nitrkl.ac.in"
-    },
-    {
-      "Tribal Affairs (MoTA)": 30,
       "Unnamed: 1": "Amrita Vishwa Vidyapeetham",
       "Unnamed: 2": "Tamil Nadu",
       "Unnamed: 3": "Engineering, medicine, biotechnology, social sciences, management, humanities, nanoscience",
       "Unnamed: 4": "Dr. Chidanandamrita Chaitanya\nchidanandamrita@am.amrita.edu"
     },
     {
-      "Tribal Affairs (MoTA)": 31,
+      "Tribal Affairs (MoTA)": 30,
       "Unnamed: 1": "Council of Analytics Tribal Studies",
       "Unnamed: 2": "Odisha ",
       "Unnamed: 3": "Data analytics in tribal development, socio-economic research, tribal policy studies, rural analytics",
       "Unnamed: 4": " Dr. P.C. Mohapatro\ncoatskoraput@gmail.com"
     },
     {
-      "Tribal Affairs (MoTA)": 32,
+      "Tribal Affairs (MoTA)": 31,
       "Unnamed: 1": "Bhasha Research Institute",
       "Unnamed: 2": "Gujrat",
       "Unnamed: 3": "Adivasi/tribal languages, anthropology, indigenous culture studies, linguistic research, tribal documentation",
       "Unnamed: 4": "Ms. Nisha Grover\nbhasharesearch@gmail.com"
     },
     {
-      "Tribal Affairs (MoTA)": 33,
+      "Tribal Affairs (MoTA)": 32,
       "Unnamed: 1": "Piramal Swasthya",
       "Unnamed: 2": "Telangana",
       "Unnamed: 3": "Public health, community healthcare, maternal & child health, digital health, rural health services",
       "Unnamed: 4": "info@piramalswasthya.org"
     },
     {
-      "Tribal Affairs (MoTA)": 34,
+      "Tribal Affairs (MoTA)": 33,
       "Unnamed: 1": "Indira Gandhi National Tribal University",
       "Unnamed: 2": "Madhya Pradesh",
       "Unnamed: 3": "Tribal studies, humanities, social sciences, sciences, management, education, indigenous research",
       "Unnamed: 4": "Prof. Byomakesh Tripathy\nvc@igntu.ac.in"
     },
     {
-      "Tribal Affairs (MoTA)": 35,
+      "Tribal Affairs (MoTA)": 34,
       "Unnamed: 1": "National Institute of Rural Development",
       "Unnamed: 2": "Hyderabad (Telangana)",
       "Unnamed: 3": "Research on tribal development",
       "Unnamed: 4": "Dr. G. Narendra Kumar, IAS\ndg.nird@gov.in\n"
+    },
+    {
+      "Tribal Affairs (MoTA)": 35,
+      "Unnamed: 1": "Tribal Cooperative Marketing Development Federation of India Limited",
+      "Unnamed: 2": "New Delhi",
+      "Unnamed: 3": "Tribal product marketing, livelihood promotion & minor forest produce",
+      "Unnamed: 4": "Shri M. Raja Murugan\nmd-trifed@trifed.nic.in"
     }
   ],
   "52.Women and Child Developmen": [

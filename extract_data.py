@@ -2,6 +2,7 @@ import pandas as pd
 import json
 import math
 import sys
+import os
 
 def clean_value(val):
     if isinstance(val, float) and math.isnan(val):
@@ -9,7 +10,8 @@ def clean_value(val):
     return val
 
 try:
-    xl = pd.ExcelFile("Ministries.xlsx")
+    excel_file = "Ministries_New.xlsx" if os.path.exists("Ministries_New.xlsx") else "Ministries.xlsx"
+    xl = pd.ExcelFile(excel_file)
     res = {}
     for sheet_name in xl.sheet_names:
         df = xl.parse(sheet_name)
